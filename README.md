@@ -1,6 +1,8 @@
 
 # 🧥 Virtual Try-On — Inpainting Demo (FREE, Local)
 
+![alt text](<Screenshot (124).png>)
+
 A simple **Streamlit** web app that performs **virtual try-on** by *inpainting* a clothing item into a selected body region (Upper or Lower) using **Stable Diffusion Inpainting**.
 
 ## ✨ Features
